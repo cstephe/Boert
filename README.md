@@ -1,6 +1,6 @@
-# Bower
+# Boert
 
-Bower needs resources for its maintenance. Please fill [<strong>Support Declaration</strong>](http://goo.gl/forms/P1ndzCNoiG) if you think you can help.
+Boert needs resources for its maintenance. Please fill [<strong>Support Declaration</strong>](http://goo.gl/forms/P1ndzCNoiG) if you think you can help.
 
 [![Build Status](https://travis-ci.org/bower/bower.svg?branch=master)](https://travis-ci.org/bower/bower) [![Windows Build](https://ci.appveyor.com/api/projects/status/jr6vfra8w84plh2g/branch/master?svg=true)](https://ci.appveyor.com/project/sheerun/bower/history) [![Coverage Status](https://img.shields.io/coveralls/bower/bower.svg)](https://coveralls.io/r/bower/bower?branch=master)
 
@@ -10,9 +10,9 @@ Bower needs resources for its maintenance. Please fill [<strong>Support Declarat
 
 > A package manager for the web
 
-Bower offers a generic, unopinionated solution to the problem of **front-end package management**, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. There are no system wide dependencies, no dependencies are shared between different apps, and the dependency tree is flat.
+Boert offers a generic, unopinionated solution to the problem of **front-end package management**, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. There are no system wide dependencies, no dependencies are shared between different apps, and the dependency tree is flat.
 
-Bower runs over Git, and is package-agnostic. A packaged component can be made up of any type of asset, and use any type of transport (e.g., AMD, CommonJS, etc.).
+Boert runs over Git, and is package-agnostic. A packaged component can be made up of any type of asset, and use any type of transport (e.g., AMD, CommonJS, etc.).
 
 **View complete docs on [bower.io](http://bower.io)**
 
